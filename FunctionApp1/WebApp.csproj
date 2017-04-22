@@ -134,6 +134,13 @@
     <Content Include="HttpTriggerCSharp\readme.md" />
     <Content Include="HttpTriggerCSharp\run.csx" />
     <Content Include="HttpTriggerCSharp\sample.dat" />
+    <Content Include="HttpTriggerCSharp1\function.json" />
+    <Content Include="HttpTriggerCSharp1\project.json" />
+    <Content Include="HttpTriggerCSharp1\project.lock.json" />
+    <Content Include="HttpTriggerCSharp1\readme.md" />
+    <Content Include="HttpTriggerCSharp1\run.csx" />
+    <Content Include="HttpTriggerCSharp1\sample.dat" />
+    <None Include="Properties\PublishProfiles\sjkptestfunction - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
