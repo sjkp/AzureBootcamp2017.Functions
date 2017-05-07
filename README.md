@@ -1,4 +1,4 @@
-# Azure Bootcamp 2017 - Azure Functions
+# Glboal Azure Bootcamp 2017 - Azure Functions
 
 Small sample app on how deployment of Azure Functions using precompiled assemblies can be done using a web project and ARM templates.  
 
